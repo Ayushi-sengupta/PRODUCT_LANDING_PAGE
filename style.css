@@ -142,13 +142,17 @@ li.active{
 	width: 360px;
 	height: 360px;
 	float: left;
-	margin-bottom: 20px;
+	margin-bottom: 150px;
 	margin-right: 20px;
 }
 .portfolio-item .item img{
 	width: 100%;
 	height: 100%;
 	border-radius: 8px;
+}
+.portfolio-item .item i{
+	color: goldenrod;
+	margin: 10px 0;
 }
 
 .member{
